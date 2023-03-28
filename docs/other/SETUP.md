@@ -69,3 +69,13 @@ DATA:
 Add
 /workspaces/codespaces-jupyter/
 before folder path
+
+------------------------------
+
+Fix 
+Edit
+from sklearn.metrics import (
+
+plot_confusion_matrix
+to 
+ConfusionMatrixDisplay
