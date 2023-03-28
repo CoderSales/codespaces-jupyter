@@ -37,3 +37,6 @@
 
  ## dictionary
  - [python dictionary syntax](https://www.programiz.com/python-programming/methods/dictionary/update)
+
+## zip and enumerate
+- `for i, (name, age) in enumerate(zip(names, ages)):` [note.nkmk.me| Use enumerate() and zip() together in Python](https://note.nkmk.me/en/python-for-enumerate-zip/)

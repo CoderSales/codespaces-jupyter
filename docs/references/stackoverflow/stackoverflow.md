@@ -18,3 +18,5 @@ def display_full(x):
 - [CoderSales/machine-learning-classification](https://github.com/CoderSales/machine-learning-classification)
 
 - `list[:10]` [Fetch first 10 results from a list in Python](https://stackoverflow.com/questions/10897339/fetch-first-10-results-from-a-list-in-python)
+
+- `v = list(d.values())` [Get: TypeError: 'dict_values' object does not support indexing when using python 3.2.3 [duplicate]](https://stackoverflow.com/questions/17431638/get-typeerror-dict-values-object-does-not-support-indexing-when-using-python)
