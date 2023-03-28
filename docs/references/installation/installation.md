@@ -1,0 +1,2 @@
+- [pip install statsmodels](https://www.statsmodels.org/stable/install.html)
+- [pip install jupyterlab](https://jupyter.org/install)

@@ -1,1 +1,0 @@
-- [pip install statsmodels](https://www.statsmodels.org/stable/install.html)

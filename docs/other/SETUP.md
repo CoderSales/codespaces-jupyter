@@ -46,5 +46,14 @@ pip install -r requirements.txt
  pip install seaborn
  pip install statsmodels
 
+ignore next line commented: 
 <!-- comment nb-black -->
+
 pip install nb-black
+
+pip install jupyterlab
+
+pip freeze > requirements.txt
+
+pip install -r requirements.txt
+
