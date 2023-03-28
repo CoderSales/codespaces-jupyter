@@ -42,3 +42,9 @@ pip install -r requirements.txt
  ------------------------------
 
  pip install pandas
+ pip install matplotlib
+ pip install seaborn
+ pip install statsmodels
+
+<!-- comment nb-black -->
+pip install nb-black
