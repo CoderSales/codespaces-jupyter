@@ -8,3 +8,19 @@
 
 ## venv
 - [venv](# https://docs.python.org/3/library/venv.html)
+
+## GitHubCopilot
+- Code:
+
+```
+
+    if boolean == True:
+        print("There are duplicate values in the data")
+        break
+    else:
+        print("There are no duplicate values in the data")
+        break
+
+```
+
+ [GitHub Copilot](https://github.com/features/copilot)
