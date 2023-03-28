@@ -1,0 +1,1 @@
+- [for x, y in zip(a, b)](https://realpython.com/python-zip-function/)

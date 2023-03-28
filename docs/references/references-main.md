@@ -23,4 +23,17 @@
 
 ```
 
+```
+
+    if pcnt_msng > 0:
+        missing_values_dict[counter] = pcnt_msng
+
+```
+
  [GitHub Copilot](https://github.com/features/copilot)
+
+ ## missing values
+ - MT_MLS2_supermarket_campaign_2_template_pre_quiz.ipynb [ml-model-tuning-3](https://github.com/CoderSales/ml-model-tuning-3)
+
+ ## dictionary
+ - [python dictionary syntax](https://www.programiz.com/python-programming/methods/dictionary/update)

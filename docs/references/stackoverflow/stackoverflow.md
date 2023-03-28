@@ -1,0 +1,1 @@
+- .tolist()[How to unpack a Series of tuples in Pandas?](https://stackoverflow.com/questions/22799300/how-to-unpack-a-series-of-tuples-in-pandas)
