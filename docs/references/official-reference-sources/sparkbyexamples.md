@@ -1,1 +1,1 @@
-- [pandas read text into a dataframe](https://sparkbyexamples.com/pandas/pandas-read-text-into-dataframe/)
+- primary (part 2) reference for reading data [pandas read text into a dataframe](https://sparkbyexamples.com/pandas/pandas-read-text-into-dataframe/)

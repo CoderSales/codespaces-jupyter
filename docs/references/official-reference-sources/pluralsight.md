@@ -19,4 +19,4 @@ with open('nba_games_november2018_visitor_wins.txt', newline = '') as games:
 
 ```
 
-[Importing Data from Tab Delimited Files with Python](https://www.pluralsight.com/guides/importing-data-from-tab-delimited-files-with-python)
+primary reference for reading data from txt file [Importing Data from Tab Delimited Files with Python](https://www.pluralsight.com/guides/importing-data-from-tab-delimited-files-with-python)
