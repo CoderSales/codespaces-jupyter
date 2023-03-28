@@ -16,3 +16,5 @@ def display_full(x):
 
 [How can I display full (non-truncated) dataframe information in HTML when converting from Pandas dataframe to HTML?](https://stackoverflow.com/questions/25351968/how-can-i-display-full-non-truncated-dataframe-information-in-html-when-conver)
 - [CoderSales/machine-learning-classification](https://github.com/CoderSales/machine-learning-classification)
+
+- `list[:10]` [Fetch first 10 results from a list in Python](https://stackoverflow.com/questions/10897339/fetch-first-10-results-from-a-list-in-python)
