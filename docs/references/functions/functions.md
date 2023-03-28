@@ -2,6 +2,17 @@
 
 ```
 
+with open('readme.txt') as f:
+    lines = f.readlines()
+
+```
+
+[Python Read Text File](https://www.pythontutorial.net/python-basics/python-read-text-file/)
+
+- Code:
+
+```
+
 def display_full(x):
     with pd.option_context('display.max_rows', None,
                            'display.max_columns', None,

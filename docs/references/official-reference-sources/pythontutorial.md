@@ -1,0 +1,1 @@
+- [read text file](https://www.pythontutorial.net/python-basics/python-read-text-file/)

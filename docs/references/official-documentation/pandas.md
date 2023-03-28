@@ -1,0 +1,2 @@
+- [pandas.Series.index](https://pandas.pydata.org/docs/reference/api/pandas.Series.index.html)
+- [pandas.DataFrame.info](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.info.html)
