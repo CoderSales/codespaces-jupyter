@@ -9,7 +9,7 @@ blank canvas to work on from a git perspective.
 single initial commit with this
 
 Everything you do here is contained within this one codespace. 
-no repository on GitHub yet. 
+no repository on GitHub yet. <br>
 <b> If, when ready: click "Publish Branch" </b>
 -> we’ll create your repository and push up your project.
 
