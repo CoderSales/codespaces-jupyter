@@ -51,7 +51,7 @@ jupyter_server_ydoc==2.4.1
 jupyterlab==4.5.9
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.7
-jupyterlab_server==2.21.0
+jupyterlab_server==2.28.0
 kiwisolver==1.4.4
 MarkupSafe==2.1.2
 matplotlib==3.7.1
