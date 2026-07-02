@@ -114,7 +114,7 @@ traitlets==5.9.0
 uri-template==1.2.0
 urllib3==2.7.0
 wcwidth==0.2.6
-webcolors==1.13
+webcolors==25.10.0
 webencodings==0.5.1
 websocket-client==1.5.1
 widgetsnbextension==4.0.7
