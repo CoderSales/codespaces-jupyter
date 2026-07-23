@@ -69,7 +69,7 @@ notebook_shim==0.2.4
 numpy==1.24.2
 packaging==23.0
 pandas==1.5.3
-pandocfilters==1.5.0
+pandocfilters==1.5.1
 parso==0.8.3
 pathspec==0.11.1
 patsy==0.5.3
