@@ -85,7 +85,7 @@ pure-eval==0.2.2
 pycparser==3.0
 Pygments==2.15.0
 pyparsing==3.0.9
-pyrsistent==0.19.3
+pyrsistent==0.20.0
 python-dateutil==2.9.0.post0
 python-json-logger==4.1.0
 pytz==2023.2
